@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const circles = document.querySelectorAll('.circle');
 const progress = document.getElementById('progress');
 const nextBtn = document.getElementById('next');
